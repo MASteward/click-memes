@@ -1,50 +1,50 @@
 [
   {
     "id": 1,
-    "image": "../public/images/michaelMagic.jpg"
+    "image": "images/michaelMagic.jpg"
   },
   {
     "id": 2,
-    "image": "../public/images/michaelHistory.jpg"
+    "image": "images/michaelHistory.jpg"
   },
   {
     "id": 3,
-    "image": "../public/images/michaelStrikes.jpg"
+    "image": "images/michaelStrikes.jpg"
   },
   {
     "id": 4,
-    "image": "../public/images/michaelCar.jpg"
+    "image": "images/michaelCar.jpg"
   },
   {
     "id": 5,
-    "image": "../public/images/michaelNothing.jpg"
+    "image": "images/michaelNothing.jpg"
   },
   {
     "id": 6,
-    "image": "../public/images/michaelSueMe.jpg"
+    "image": "images/michaelSueMe.jpg"
   },
   {
     "id": 7,
-    "image": "../public/images/michaelSheSaid.jpg"
+    "image": "images/michaelSheSaid.jpg"
   },
   {
     "id": 8,
-    "image": "../public/images/michaelFear.jpg"
+    "image": "images/michaelFear.jpg"
   },
   {
     "id": 9,
-    "image": "../public/images/michaelHR.jpg"
+    "image": "images/michaelHR.jpg"
   },
   {
     "id": 10,
-    "image": "../public/images/michaelNo.jpg"
+    "image": "images/michaelNo.jpg"
   },
   {
     "id": 11,
-    "image": "../public/images/michaelTurtles.jpg"
+    "image": "images/michaelTurtles.jpg"
   },
   {
     "id": 12,
-    "image": "../public/images/michaelWiki.jpg"
+    "image": "images/michaelWiki.jpg"
   }
 ]
